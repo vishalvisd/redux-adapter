@@ -1,0 +1,14 @@
+{
+  "name": "@vishaldaga/redux-adapter",
+  "version": "1.0.0",
+  "description": "syntactical better redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Daga",
+  "license": "ISC",
+  "peerDependencies": {
+    "redux": "~3.7.1"
+  }
+}
