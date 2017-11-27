@@ -8,6 +8,10 @@
   },
   "author": "Vishal Daga",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalvisd/redux-adapter.git"
+  },
   "peerDependencies": {
     "redux": "~3.7.1"
   }
